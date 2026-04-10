@@ -13,4 +13,4 @@ Desarrollador de Software con enfoque en soluciones web prácticas y eficientes.
 
 ### 📫 Contáctame
 - [LinkedIn](https://www.linkedin.com/in/Baena-Alvarez)
-- [Upwork] https://www.upwork.com/freelancers/~01b4d5d3b621be88db?mp_source=share
+- [Upwork](https://www.upwork.com/freelancers/~01b4d5d3b621be88db?mp_source=share)
